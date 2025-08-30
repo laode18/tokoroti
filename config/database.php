@@ -1,8 +1,8 @@
 <?php
-$host = "sql305.infinityfree.com";
-$user = "if0_39822054";
-$pass = "eBJKtA0YV3";
-$db   = "if0_39822054_toko_roti";
+$host = "sql12.freesqldatabase.com";
+$user = "sql12796658";
+$pass = "enNlblbMZd";
+$db   = "sql12796658";
 
 $conn = new mysqli($host, $user, $pass, $db);
 
